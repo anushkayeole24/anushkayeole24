@@ -21,9 +21,6 @@
 |--------|-------------|
 | [Semantic-Based Search Engine](https://github.com/anushkayeole24/Semantic-Based-Search-Engine) | Built an intelligent video subtitle search using BERT & Streamlit |
 | [Flipkart Review Sentiment Analysis](https://github.com/anushkayeole24/Sentiment-Analysis) | Web-scraped reviews, performed sentiment & readability metrics |
-| [Fraud Detection System](https://github.com/anushkayeole24/Innomatics-Data-Science-Internship) | Identified fraudulent transactions using classification models |
-
----
 
 ## 📫 Connect With Me
 
